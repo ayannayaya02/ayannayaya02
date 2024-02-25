@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pinterest clone**
 
-- 🌱 I’m currently learning **React, Python, and JavaScript**
+- 🌱 I’m currently learning **Cybersecurity, Python, and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayannayaya02?tab=repositories](https://github.com/ayannayaya02?tab=repositories)
 
